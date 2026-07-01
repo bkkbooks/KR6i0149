@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0149/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說摩達國王經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0519.xml
+    old_id: T14n0519
+hash: sha256:f278e0e9c22ccb5f2ab45a8939bfaae30f55935d258ced47462c221fcc40b49f
