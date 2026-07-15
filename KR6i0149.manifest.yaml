@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0149/v1
 canonical_location: https://kanripo.org/bkk/KR6i0149/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說摩達國王經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0149_000.yaml, hash: 'sha256:f278e0e9c22ccb5f2ab45a8939bfaae30f55935d258ced47462c221fcc40b49f'}
-  - {seq: 1, filename: KR6i0149_001.yaml, hash: 'sha256:53340e903b720220e38e92d1062e500c787d40e50ab570600a9f3a577f7bae64'}
+  - {seq: 1, filename: KR6i0149_001.yaml, hash: 'sha256:1974dd1cf846afac39ee0a06457e3a1b9766651c0f9c8fd1b00eeded591d2f4b'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0149_000.markers.yaml, hash: 'sha256:493f59a8d65172a1df75425ced3293a5ce24163a479f82720fe5e7b051251737'}
-  - {seq: 1, role: markers, filename: assets/KR6i0149_001.markers.yaml, hash: 'sha256:42680aa191cd03618433bbdddf02ca66ada0e8c6d638c38bedfb8b6fead4f62e'}
+  - {seq: 1, role: markers, filename: assets/KR6i0149_001.markers.yaml, hash: 'sha256:359775a8f4d27de0173b28e54dd41aeb5a71b0e20dfc9b6e9c92a758cb9c9f36'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 佛說摩達國王經
   type: juan
   level: 1
-hash: sha256:1e216d14e2bda872cec5e0f289a81d39aed9a17af31f50253c062cfc05993f6c
+hash: sha256:02c85ce97ec1c3f7376aabc1a94a23878d6d33492f42178a48f65cfe81ac407f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
